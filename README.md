@@ -1,2 +1,2 @@
 # Logistic-Regression
-Weather Forecasting: Predicting rainfall in Australia using logistic regression
+Training Model using Algoritm: Logistic Regression
