@@ -1,2 +1,2 @@
 # Logistic-Regression
-Training Model using Algoritm: Logistic Regression
+Training Model using Algorithm: Logistic Regression
